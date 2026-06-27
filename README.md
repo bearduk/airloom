@@ -2,6 +2,8 @@
 
 **Play images as living sound.** · *Scan colour. Hear light.*
 
+![Airloom — a glowing scan line travels across an image while the controls panel shapes the sound](docs/screenshot.png)
+
 Airloom is an experimental audio-visual instrument. Load an image (or a live
 camera feed), press play, and a glowing scan line travels across it. As the
 scanner passes over each slice of pixels, Airloom analyses colour, brightness
@@ -142,3 +144,9 @@ Vite · React · TypeScript · Tone.js (Web Audio) · HTML Canvas. No backend.
 
 > Note: Tone.js makes the JS bundle relatively large (~115 kB gzipped); this is
 > expected for a Web Audio instrument.
+
+---
+
+## License
+
+Released under the [MIT License](LICENSE). © 2026 bearduk.
